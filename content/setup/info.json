@@ -1,7 +1,7 @@
 {
-  "sitename": "Bael",
+  "sitename": "popROAR",
   "sitedescription": "A fashionable brutalist blog template using Netlify CMS and Nuxt.js.",
-  "siteicon": "/images/uploads/icon.png",
+  "siteicon": "/images/uploads/poplion.svg",
   "showmenu": true,
   "emailsignup": true,
   "altlayout": false,
